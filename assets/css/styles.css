@@ -23,7 +23,7 @@ html {
   box-sizing: inherit;
 }
 
-body {
+.body {
   font-size: 2rem;
   line-height: 1.5;
   background-color: var(--blue);
